@@ -1,0 +1,50 @@
+0 coordinate 3 v.合作;协调 v.相称;相配 n.坐标
+0 derive 1 v.来源于
+0 employ 2 v.雇佣 v.使用;利用
+0 frustrate 2 v.使灰心 v.阻止;阻挠
+0 justify 2 v.使...公正 v.美化;合理化
+0 awe 2 v.敬畏 n.使敬畏
+0 glimpse 2 n.一瞥 v.瞥见
+0 dictate 3 v.口述 v.支配 v.命令
+0 bargain 3 v.讨价还价 n.便宜货 n.交易
+0 adept 1 adj.熟练的;擅长的
+0 object 3 n.物体 n.目标 v.反对
+0 disguise 1 v.伪装,假装
+0 stock 3 n.股票 n.库存 v.储存
+0 ferry 2 n.渡船 v.运送;渡运
+0 horizon 2 n.地平线 n.眼界;视界
+0 thorough 1 adj.彻底的;完全的
+0 figure 3 n.数字 n.人物 n.身材,身影
+0 venture 2 n.企业 v.冒险去...
+0 favour 3 n.偏爱 n.赞同 n.帮助
+0 vanish 1 v.消失,消亡
+0 alternative 2 n.可选择的事情 v.可替代的
+0 infrastructure 1 n.基础设施
+0 tempt 1 v.引诱;诱惑
+0 capacity 2 n.能力 n.容积
+0 principal 4 adj.最重要的;主要的 n.本金;资本 n.主角 n.大学校长
+0 alien 2 adj.国外的 adj.陌生的
+0 robust 1 adj.强健的;强壮的
+0 substitute 2 n.替代物 v.代替,取代
+0 momentum 2 n.动力 n.势头
+0 census 2 n.(官方的)统计 n.人口普查
+0 exhibit 1 v.展现;表现
+0 plunge 2 v.骤降;暴跌 v.突然下落
+0 odd 2 adj.奇怪的 adj.单数的
+0 render 2 v.使成为 v.提供
+0 orthodox 1 adj.正统的;传统的
+0 indifferent 1 adj.漠不关心的;冷淡的
+0 confer 2 v.协商 v.授予(奖项,学位等)
+0 exclude 2 v.把...排除在外 v.拒绝
+0 concrete 2 n.混凝土 adj.具体的
+0 turnover 2 n.营业额 n.流动率
+0 blackmail 1 v.敲诈勒索
+0 fraud 2 n.骗子;行骗的人 n.诈骗罪
+0 telecom 1 n.电信;电讯
+0 predece 1 v.处在...之前;先于
+0 hazard 1 n.风险;危险
+0 grave 2 n.墓穴 adj.严重的
+0 verge 2 n.濒于 v.边缘
+0 spur 2 v.激励;鼓励 n.激励;鼓励
+0 plead 2 v.祈求;恳求 v.为...辩护
+0 scheme 2 n.计划 v.密谋
