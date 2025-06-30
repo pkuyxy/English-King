@@ -1,0 +1,50 @@
+0 adapt 2 v.使适应;改编 v.适应;适合
+0 advocate 1 v.提倡;主张;支持
+0 ascribe 1 v.归因;归结于
+0 assess 1 v.评价;评定
+0 assign 3 分配;分派 定出;确定 委派;派遣
+0 assume 1 v.假定;假设;臆断
+0 attain 1 v.获得;赢得
+0 attribute 2 v.把...归因于 n.特性;特质
+0 boost 2 v.改善;提高 n.改善;提高
+0 convey 2 v.表达;传达 v.运输,运送
+0 coordinate 3 v.合作;协调 v.相称;相配 n.坐标
+0 derive 1 v.来源于
+0 employ 2 v.雇佣 v.使用;利用
+0 frustrate 2 v.使灰心 v.阻止;阻挠
+0 justify 2 v.使...公正 v.美化;合理化
+0 engage 3 v.雇用;聘用 v.吸引住 v.使参加
+0 positive 2 adj.建设性的,积极的 adj.呈阳性的
+0 prompt 2 v.引起；导致；激起 adj.迅速的;敏捷的;及时的
+0 proportion 3 n.部分;份额 n.比率，比例 n.重要性，严重性
+0 pursue 2 v.追赶;追捕;追击 v.追求，从事，实行
+0 relevant 1 adj.有关的；相关联的
+0 restore 2 v.修复 v.归还;交还
+0 resume 2 v.恢复;重新回到，重返（某地或某位置) n.摘要;梗概;概述
+0 cultivate 1 v.培养;熏陶
+0 comprehensive 2 adj.全面的 adj.综合的
+0 distinguish 1 v.区别;分别
+0 evacuate 1 v.撤离;撤出
+0 transmit 3 v.发射 v.传送;传播 v.传染
+0 shelter 4 n.避难所;庇护所 n.躲避 v.躲避;遮蔽 v.保护;庇护
+0 thunder 2 n.雷;雷声;轰隆声 v.打雷;轰隆隆地响
+0 agent 2 n.代理人;代理商 n.动因;原因
+0 accomplish 2 v.完成 v.到达;实行
+0 acquire 1 v.取得;获得;学到
+0 appeal 3 n.呼吁;恳求 v.呼吁;恳求 n.吸引
+0 preserve 2 v.保护;保存 v.维持
+0 highlight 2 v.强调;突出 n.高光
+0 decent 2 adj.体面的;像样的 adj.正直的;高尚的
+0 ruin 2 n.毁坏,破灭 v.毁灭;废墟
+0 sake 1 n.缘故;理由
+0 scale 3 n.大小,规模 n.等级 n.刻度
+0 tedious 1 adj.乏味的;单调的
+0 ultimate 3 adj.极端的;最大的 adj.最终的 n.极端
+0 adopt 2 v.收养 v.采用;采纳
+0 casual 3 adj.偶然的;碰巧的 adj.临时的 adj.非正式的
+0 organ 2 n.器官 n.风琴
+0 expenditure 2 n.支出;消费 n.经费
+0 individual 2 n.个别的,单独的 v.个人;个体
+0 acid 3 n.酸性物质 adj.酸的 adj.尖刻的
+0 acknowledge 2 v.承认 v.致谢
+0 impose 2 v.把...加强 v.采用;利用

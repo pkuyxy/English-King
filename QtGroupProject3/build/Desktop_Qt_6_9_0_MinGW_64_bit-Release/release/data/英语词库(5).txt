@@ -1,0 +1,93 @@
+0 sleep 2 v.睡觉 n.睡觉 
+0 warn 2 v.警告 n.警告 
+0 education 1 n.教育 
+0 order 3 v.命令 n.顺序;秩序 n.订单;点菜 
+0 dream 4 v.想象 v.做梦 n.梦境 n.梦想 
+0 police 2 v.巡查;维持治安 n.警察 
+0 stairs 1 n.台阶 
+0 energy 2 n.能源 n.能量 
+0 adequate 1 adj.累计;累加 
+0 battery 2 n.炮组;排炮 n.电池 
+0 candidate 1 n.候选人 
+0 energy 2 n.能源 n.能量 
+0 file 3 v.把...归档 n.档案 n.文件 
+0 actor 1 n.男演员 
+0 set 4 v.设置 v.建立 n.一套 n.设置 
+0 spirit 4 n.烈性酒 n.勇气 n.精神 n.灵魂 
+0 ok 1 n.好的 
+0 polite 1 adj.有礼貌的 
+0 file 3 v.把...归档 n.档案 n.文件 
+0 district 1 n.区域 
+0 polite 1 adj.有礼貌的 
+0 corner 2 v.逼入绝境;无路可走 n.角落 
+0 birth 2 n.诞生 n.出生 
+0 sweet 3 n.甜点 adj.令人满意的 adj.甜的 
+0 single 3 adj.唯一的 adj.单身的 adj.单一的;仅有的 
+0 name 3 n.名人 n.声誉 n.名字 
+0 ok 1 n.好的 
+0 lively 1 adj.生机勃勃的 
+0 left 2 n.左边 adj.左边的 
+0 age 3 n.年老 n.时代 n.年龄 
+0 ok 1 n.好的 
+0 work 2 v.工作 n.工作 
+0 town 1 n.城镇 
+0 pretty 3 adv.非常 adv.相当的 adj.漂亮的 
+0 town 1 n.城镇 
+0 energy 2 n.能源 n.能量 
+0 medical 2 n.体格检查 adj.医学的 
+0 actress 1 n.女演员 
+0 dentist 1 n.牙科医生 
+0 weak 2 adj.软弱的 adj.虚弱的 
+0 kind 2 n.种类 adj.善良的 
+0 strict 2 adj.严谨的 adj.严厉的 
+0 single 3 adj.唯一的 adj.单身的 adj.单一的;仅有的 
+0 dentist 1 n.牙科医生 
+0 local 2 n.当地人 adj.当地的 
+0 well 3 adv.非常;完全 adv.很好地 n.井 
+0 strong 2 adj.强烈的 adj.强健的 
+0 born 4 v.出现 v.出生 adj.天生的 adj.出生的 
+0 background 1 n.背景 
+0 corner 2 v.逼入绝境;无路可走 n.角落 
+0 energy 2 n.能源 n.能量 
+0 strict 2 adj.严谨的 adj.严厉的 
+0 birth 2 n.诞生 n.出生 
+0 well 3 adv.非常;完全 adv.很好地 n.井 
+0 corner 2 v.逼入绝境;无路可走 n.角落 
+0 elder 2 n.老者 adj.年老的 
+0 position 6 n.立场 n.职务 n.地位 n.处境 n.地点 n.位置 
+0 set 4 v.设置 v.建立 n.一套 n.设置 
+0 well 3 adv.非常;完全 adv.很好地 n.井 
+0 local 2 n.当地人 adj.当地的 
+0 single 3 adj.唯一的 adj.单身的 adj.单一的;仅有的 
+0 town 1 n.城镇 
+0 single 3 adj.唯一的 adj.单身的 adj.单一的;仅有的 
+0 born 4 v.出现 v.出生 adj.天生的 adj.出生的 
+0 polite 1 adj.有礼貌的 
+0 well 3 adv.非常;完全 adv.很好地 n.井 
+0 medical 2 n.体格检查 adj.医学的 
+0 district 1 n.区域 
+0 kind 2 n.种类 adj.善良的 
+0 medical 2 n.体格检查 adj.医学的 
+0 prison 1 n.监狱 
+0 actress 1 n.女演员 
+0 guard 2 v.守卫 n.守卫 
+0 district 1 n.区域 
+0 single 3 adj.唯一的 adj.单身的 adj.单一的;仅有的 
+0 set 4 v.设置 v.建立 n.一套 n.设置 
+0 weak 2 adj.软弱的 adj.虚弱的 
+0 single 3 adj.唯一的 adj.单身的 adj.单一的;仅有的 
+0 spirit 4 n.烈性酒 n.勇气 n.精神 n.灵魂 
+0 strict 2 adj.严谨的 adj.严厉的 
+0 strong 2 adj.强烈的 adj.强健的 
+0 sweet 3 n.甜点 adj.令人满意的 adj.甜的 
+0 file 3 v.把...归档 n.档案 n.文件 
+0 moral 2 道德的 adj. 
+0 adderss 4 v.处理 v.对...讲话 n.地址 n.演说 
+0 adderss 4 v.处理 v.对...讲话 n.地址 n.演说 
+0 energy 2 n.能源 n.能量 
+0 captain 3 v.率领;指挥 n.船长;上尉 n.首都 
+0 accept 2 v.相信 v.接受 
+0 battery 2 n.炮组;排炮 n.电池 
+0 cure 3 n.药物;治疗方法 v.解决 v.治愈;治好 
+0 cake 1 n.蛋糕;饼状物 
+0 block 3 v.堵塞;阻碍 n.大厦;大楼 n.街区;街段 
