@@ -1,0 +1,54 @@
+0 birth 2 n.出生 n.诞生
+0 born 4 adj.出生的 adj.天生的 v.出生 v.出现
+0 name 3 n.名字 n.声誉 n.名人
+0 age 3 n.年龄 n.时代 n.年老
+0 adderss 4 n.演说 n.地址 v.对...讲话 v.处理
+0 background 1 n.背景
+0 position 6 n.位置 n.地点 n.处境 n.地位 n.职务 n.立场
+0 pretty 3 adj.漂亮的 adv.相当的 adv.非常
+0 weak 2 adj.虚弱的 adj.软弱的
+0 polite 1 adj.有礼貌的
+0 serious 3 adj.严重的 adj.严肃的 adj.极其的
+0 strict 2 adj.严厉的 adj.严谨的
+0 sweet 3 adj.甜的 adj.令人满意的 n.甜点
+0 strong 2 adj.强健的 adj.强烈的
+0 energy 2 n.能量 n.能源
+0 lively 1 adj.生机勃勃的
+0 kind 2 adj.善良的 n.种类
+0 spirit 4 n.灵魂 n.精神 n.勇气 n.烈性酒
+0 moral 2 adj. 道德的 n.道德教训
+0 dream 4 n.梦想 n.梦境 v.做梦 v.想象
+0 district 1 n.区域
+0 education 1 n.教育
+0 medical 2 adj.医学的 n.体格检查
+0 operation 3 n.手术 n.操作 n.行动
+0 dentist 1 n.牙科医生
+0 local 2 adj.当地的 n.当地人
+0 village 1 n.村庄
+0 file 3 n.文件 n.档案 v.把...归档
+0 set 4 n.设置 n.一套 v.建立 v.设置
+0 work 2 n.工作 v.工作
+0 police 2 n.警察 v.巡查;维持治安
+0 guard 2 n.守卫 v.守卫
+0 law 3 n.法律 n.法律体系 n.法则
+0 prison 1 n.监狱
+0 right 4 n.右边 n.权利 adj.右边的 adj.正确的
+0 left 2 adj.左边的 n.左边
+0 warn 2 n.警告 v.警告
+0 actor 1 n.男演员
+0 actress 1 n.女演员
+0 break 3 v.破坏;破裂 v.突破 n.休息
+0 town 1 n.城镇
+0 raise 3 v.举起;抬起 v.提升 v.养育
+0 elder 2 adj.年老的 n.老者
+0 single 3 adj.单一的;仅有的 adj.单身的 adj.唯一的
+0 stairs 1 n.台阶
+0 wall 1 n.墙
+0 well 3 n.井 adv.很好地 adv.非常;完全
+0 corner 2 n.角落 v.逼入绝境;无路可走
+0 order 3 n.订单;点菜 n.顺序;秩序 v.命令
+0 sleep 2 n.睡觉 v.睡觉
+
+1 ok 1 n.好的
+1 good 1 n.好的
+1 GOOD 1 n.好的
