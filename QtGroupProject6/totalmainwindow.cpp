@@ -146,6 +146,7 @@ void TotalMainWindow::initGameWindow(int mode, int difficulty, QFont chineseFont
 
     // 设置界面返回游戏
     connect(settingsPage, &SettingsPage::backToGame, this, [this]() {
+        settingsPage->setFromGame(false);
         mainWindow->show();  // 重新显示游戏窗口
         settingsPage->hide();
         // 不需要操作stackedWidget，保持设置页面在堆栈中
