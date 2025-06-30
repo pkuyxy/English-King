@@ -1,7 +1,8 @@
 # 英语王者项目介绍：
-网盘：https://disk.pku.edu.cn/link/ARF2272DE0A10D47A19BA290994BDF36F4
+https://disk.pku.edu.cn/link/AAACAECFA2BAB442FABB97D510813F4450
 文件名：Qt项目英语王者演示视频.mp4
-文件路径：AnyShare://杨浩宇_2400013163/Qt项目英语王者演示视频.mp4
+有效期限：2025-07-30 19:34
+提取码：SnsP
 ## 1.项目基本情况
 本软件旨在帮助用户温习英语单词知识，采用答题的方式获取分数
 
