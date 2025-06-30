@@ -24,7 +24,7 @@ public:
     MainWindow(int mode,int difficulty,QFont chinesefont,QFont englishfont,QWidget *parent = nullptr);
     ~MainWindow();
 protected:
-    //void paintEvent(QPaintEvent *event)override;//内容填充
+    void paintEvent(QPaintEvent *event)override;//内容填充
     void mousePressEvent(QMouseEvent *event) override; // 鼠标按下事件
     void mouseMoveEvent(QMouseEvent *event) override;  // 鼠标移动事件
     void mouseReleaseEvent(QMouseEvent *event) override; // 鼠标释放事件
