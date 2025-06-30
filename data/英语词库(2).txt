@@ -1,0 +1,50 @@
+0 abandon 1 v.离弃;舍弃
+0 ability 1 n.能力;才能
+0 able 1 adj.有能力的;能干的
+0 absent 3 adj.缺席的 prep.缺乏;没有 v.缺席;不在场
+0 academic 1 adj.学术的
+0 accept 2 v.接受 v.相信
+0 accessible 2 adj.可进入的;可获得的 adj.易懂的
+0 account 2 n.账户;账号 n.报道;报告
+0 accumulate 1 v.调整;整理
+0 adequate 1  adj.累计;累加
+0 adjust 1 v.调整;整理
+0 bacterium 1 n.细菌
+0 bake 1 v.烘焙
+0 basic 1 adj.基本的;基础的
+0 battery 2 n.电池 n.炮组;排炮
+0 battle 3 v.战斗;战役 v.争论 v.斗争
+0 biography 1 n.传记
+0 block 3 n.街区;街段 n.大厦;大楼 v.堵塞;阻碍
+0 blank 1 adj.空白的
+0 border 2 n.边缘;边境 v.围着;沿着
+0 boom 2 v.繁荣;迅速发展 v.发出低沉的声音
+0 burial 1 n.埋葬
+0 business 3 n.生意;买卖 n.正事 n.个人事务
+0 butter 1 n.黄油
+0 cage 1 n.鸟笼
+0 cake 1 n.蛋糕;饼状物
+0 camera 1 n.相机
+0 camp 3 n.营地;宿营 n.阵营;阵线 v.扎营;露营
+0 candidate 1 n.候选人
+0 capsule 1 n.胶囊
+0 captain 3 n.首都 n.船长;上尉 v.率领;指挥
+0 culture 1 n.文化;文艺
+0 cure 3 v.治愈;治好 v.解决 n.药物;治疗方法
+0 defeat 2 n.失败;战败 v.击败;打败
+0 demand 2 n.需求;需要 v.要求;命令
+0 depth 1 n.深度
+0 describe 1 v.描述;叙述
+0 desperate 2 adj.极度绝望的 adj.非常糟糕的;非常严重的
+0 determine 2 n.决心;决定 v.确定;决定
+0 diagram 1 n.图表
+0 discover 1 v.发现;找到
+0 disgusting 1 adj.极其恶心的
+0 dignity 2 n.尊严;端庄 n.自尊;自尊心
+0 endless 1 adj.无尽的;无限的
+0 empty 3 adj.空的;无人的 adj.空洞的;无意义的 v.倒空;腾空
+0 energetic 1 adj.精力旺盛的
+0 entire 1 adj.整体的;全部的
+0 entry 2 n.进入;参加 n.门;入口;通道
+0 envelope 1 n.信封
+0 equip 1 v.装备;配备
